@@ -1,7 +1,7 @@
 1KBWatercolour
 ==============
 
-A small website to show posts by "Shitty_Watercolour" on Reddit. Aiming to be very close to 1KB.
+A small website to show posts by ["Shitty_Watercolour"](http://www.reddit.com/user/shitty_watercolour) on Reddit. Aiming to be very close to 1KB.
 
 
 This was inspired by: [](http://www.reddit.com/r/webdev/comments/23kbjz/1kb_challenge/)
