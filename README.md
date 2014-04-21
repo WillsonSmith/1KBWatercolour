@@ -11,3 +11,5 @@ The original however, required JQuery so I wanted to make my own, smaller versio
 
 This is slightly over 1KB sitting at 1135Bytes not gzipped. I could cut it down but I
 didn't really want to refactor, and I wanted to keep some best practices I have.
+
+You can find an example at [willsonsmith.com/1kWaterColour](http://willsonsmith.com/1kWaterColour)
