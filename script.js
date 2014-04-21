@@ -35,10 +35,10 @@ var app = (function(){
       for (var i = 0; i < data.length; i++){
 
         nw = document.createElement('img');
-        src = data[i].data.link_url;
-        chk = src.match('.jpg$');
+        src = data[i].data.body;
+        chk = src.match(/(http:\/\/i.imgur.com\/(.*))(\?.*)?/);
         if (chk && src !== last){
-          nw.src = src;
+          nw.src = chk;
           sparse.appendChild(nw);
         }
         last = src;
